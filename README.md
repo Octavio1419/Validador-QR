@@ -100,7 +100,7 @@
 
     <div class="contenedor-principal">
         <div class="encabezado">
-            <img class="logo-hacienda" src="" alt="HACIENDA">
+            <img class="logo-hacienda" src="HACIENDA-SAT.jpg" alt="HACIENDA">
             
         </div>
 
